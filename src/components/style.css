@@ -12,7 +12,7 @@
 }
 .header{
     grid-area: header;
-    background: light blue;
+    background: rgb(170, 170, 250);
     color: black;
     display: flex;
     align-items: center;
@@ -59,7 +59,7 @@
 
 .footer {
     grid-area: footer;
-    background:light blue;
+    background: blue;
     color: black;
     text-align: center;
     line-height: 60px;
